@@ -1,5 +1,6 @@
 # Red-Team-Blue-Team
 **Project Description**
+
 The second project of the Cyber Security Bootcamp covered a Red Team vs Blue Team scenario. This project saw participants take on the roles of both pentester and SOC analyst.
 
 The Red Team portion of the project encompassed attacking a vulnerable VM within the environment environment. The ultimate goal being to gain root access to the machine. 
